@@ -1,5 +1,5 @@
 # panorama
-Implement SIFT with python.
+Implement SIFT with openCV.
 
 ```testfile.txt``` includes your image directory.
 
